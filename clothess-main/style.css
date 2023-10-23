@@ -1,0 +1,25 @@
+body{
+    background-image: url(foto\ ivp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: rgb(245, 243, 243);
+}
+
+.titulo {
+    font-family: monospace;
+    color: black;
+}
+
+.subtitulo {
+    font-family: monospace;
+}
+
+#meuBotao{
+    size: 100px;
+    background-color: aqua;
+    border: 25px;
+    width: 75px;
+    height: 25px;
+}
+
